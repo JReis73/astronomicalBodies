@@ -14,7 +14,7 @@
     
     <FlyoutItem Title="Moon Phase" Icon="moon.png">
         <ShellContent
-        ContentTemplate="{DataTemplate local:MoonPhasePage}"/>
+        ContentTemplate="{DataTemplate local:MoonPhasePage}" />
     </FlyoutItem>
     <FlyoutItem Title="Sunrise" Icon="sun.png">
         <ShellContent
